@@ -8,6 +8,7 @@ include 'header.php';
         <div class="col-md-12 main">
           <h1 class="page-header">Pages</h1>
 
+
           <div class="row placeholders">
 
             <div class="col-sm-2 placeholder">
