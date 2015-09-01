@@ -2,159 +2,336 @@
 include 'header.php';
 ?>
 
-    <div class="container-fluid">
-      <div class="row">
+<div class="table-responsive">
+  <table width="90%">
+		<tr>
+  			<td>
+          <div class="case">
+            <a href="https://www.google.fr" target="_blank">
+            <img src="./style/img/google.png" alt="Google">
+            </a>
+          </div>
+        </td>
 
-        <div class="col-md-12 main">
-          <h1 class="page-header">Pages</h1>
+        <td>
+          <div class="case">
+            <a href="https://ixquick.fr/fra/" target="_blank">
+            <img src="./style/img/ixquick.png" alt="reporterre">
+            </a>
+          </div>
+        </td>
 
-          <div class="row placeholders">
+        <td>
+            <div class="case">
+            <a href="https://www.facebook.com/" target="_blank">
+            <img src="./style/img/facebook.png" alt="FB">
+            </a>
+          </div>
+        </td>
 
-            <div class="col-sm-2 placeholder">
-              <a href="https://www.google.fr" target="_blank"> 
-              <img src="./style/img/google.png" alt="Google" style="width:100px;height:60px"> 
-              </a>
-              <p class="mytext-muted">Google</p>
-            </div>
+      <td>
+        <div class="case">
+          <a href="http://www.senscritique.com/" target="_blank">
+          <img src="./style/img/senscritique.jpg" alt="senscritique">
+          </a>
+        </div>
+      </td>
 
-            <div class="col-sm-2 placeholder">
-              <a href="https://mail.google.com" target="_blank"> 
-               <img src="./style/img/gmail.png" alt="gmail" style="width:100px;height:60px"> 
-              </a>
-              <p class="mytext-muted">Gmail</p>
-            </div>
+      <td>
+          <div class="case">
+          <a href="http://www.meteofrance.com/accueil" target="_blank">
+          <img src="./style/img/meteofrance.jpg" alt="meteo">
+          </a>
+        </div>
+      </td>
 
-            <div class="col-sm-2 placeholder">
-              <a href="https://translate.google.com/?hl=fr" target="_blank"> 
-              <img src="./style/img/trad.png" alt="Trad" style="width:100px;height:60px">
-              </a>
-              <p class="mytext-muted">Trad</p>
-            </div>
+      <td>
+      </td>
 
-            <div class="col-sm-2 placeholder">
-              <a href="https://t411.me/" target="_blank"> 
-              <img src="./style/img/t411.png" alt="Trad" style="width:100px;height:60px">
-              </a>
-              <p class="mytext-muted">T411</p>
-            </div>
+      <td>
+        <div class="case">
+          <a href="http://ecampusmontpellier.epsi.fr/bienvenue-sur-votre-ecampus" target="_blank">
+          <img src="./style/img/ecampus.jpg" alt="Ecampus">
+          </a>
+        </div>
+      </td>
 
-          </div> <!-- class="row placeholders" -->
+      <td>
+        <div class="case">
+          <a href="https://extranet.montpellier.epsi.fr/Account/Login" target="_blank">
+          <img src="./style/img/ingenium.png" alt="ingénium">
+          </a>
+        </div>
+      </td>
 
-          <div class="row placeholders">
+      </tr> <!-- Première ligne -->
 
-              <div class="col-sm-2 placeholder">
-                <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" target="_blank"> 
-                <img src="./style/img/wikipedia.jpg" alt="wikipedia" style="width:100px;height:60px">
-                </a>
-                <p class="mytext-muted">Wikipédia</p>
-              </div>
+      <tr>
 
-          </div> <!-- class="row placeholders" -->
+        <td>
+        <div class="case">
+          <a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" target="_blank">
+          <img src="./style/img/wikipedia.jpg" alt="wikipedia">
+          </a>
+        </div>
+      </td>
 
-          <hr />
-    <div class="titre">Actu </div>
+      <td>
+        <div class="case">
+          <a href="https://t411.me/" target="_blank">
+          <img src="./style/img/t411.png" alt="Trad">
+          </a>
+        </div>
+      </td>
 
-          <div class="row placeholders">
+      <td>
+        <div class="case">
+          <a href="http://78.194.14.113:2822/" target="_blank">
+          <img src="./style/img/seedbox.png" alt="freebox">
+          </a>
+        </div>
+      </td>
 
-              <div class="col-sm-2 placeholder">
-                <a href="http://www.lemonde.fr/" target="_blank"> 
-                <img src="./style/img/le_monde.png" alt="leMonde" style="width:100px;height:60px">
-                </a>
-                <p class="mytext-muted">Le monde</p>
-              </div>
+      <td>
+        <div class="case">
+          <a href="http://www.pogdesign.co.uk/cat/" target="_blank">
+          <img src="./style/img/pogdesign.png" alt="pogdesign">
+          </a>
+        </div>
+      </td>
 
-              <div class="col-sm-2 placeholder">
-                <a href="http://www.vice.com/fr/" target="_blank"> 
-                <img src="./style/img/vice.png" alt="Vice" style="width:100px;height:60px">
-                </a>
-                <p class="mytext-muted">Vice</p>
-              </div>
+      <td>
+          <div class="case">
+          <a href="http://izismile.com/" target="_blank">
+          <img src="./style/img/izismile.jpg" alt="izismile">
+          </a>
+        </div>
+      </td>
 
-          </div> <!-- class="row placeholders" -->
+        <td>
+          <div class="case">
+            <a href="http://www.realstreamunited.com/football-live-streaming-video.html" target="_blank">
+            <img src="./style/img/streamhunter.png" alt="streamhunter">
+            </a>
+          </div>
+        </td>
 
-          <hr />
-          <div class="titre">Actus info </div>
+        <td>
+            <div class="case">
+            <a href="http://curvefever.com/play2.php" target="_blank">
+            <img src="./style/img/curve.png" alt="achtung">
+            </a>
+          </div>
+        </td>
 
-          <div class="row placeholders">
 
-            <div class="col-sm-2 placeholder">
-              <a href="http://korben.info/" target="_blank"> 
-              <img src="./style/img/korben.png" alt="korben" style="width:100px;height:60px">
-              </a>
-              <p class="mytext-muted">Korben</p>
-            </div>
+        <td>
+            <div class="case">
+            <a href="http://slider.kz/" target="_blank">
+            <img src="./style/img/sliderz.jpg" alt="sliderz">
+            </a>
+          </div>
+        </td>
 
-            <div class="col-sm-2 placeholder">
-              <a href="http://www.journaldugeek.com/" target="_blank"> 
-              <img src="./style/img/jdg.jpg" alt="journalDuGeek" style="width:100px;height:60px">
-              </a>
-              <p class="mytext-muted">Journal du Geek</p>
-            </div>
 
-            <div class="col-sm-2 placeholder">
-              <a href="http://www.frandroid.com/" target="_blank"> 
-              <img src="./style/img/frandroid.jpg" alt="FrAndroid" style="width:100px;height:60px">
-              </a>
-              <p class="mytext-muted">FrAndroid</p>
-            </div>
 
-            <div class="col-sm-2 placeholder">
-              <a href="http://www.tomsguide.fr/" target="_blank"> 
-              <img src="./style/img/tomsguide.png" alt="Tom'sGuide" style="width:100px;height:60px">
-              </a>
-              <p class="mytext-muted">Tom's Guide</p>
-            </div>
+      </tr>
 
-            <div class="col-sm-2 placeholder">
-              <a href="http://www.futura-sciences.com/" target="_blank"> 
-              <img src="./style/img/futurasciences.jpg" alt="Futura-Sciences" style="width:100px;height:60px">
-              </a>
-              <p class="mytext-muted">Futura-Sciences</p>
-            </div>
+    <tr>
 
-            <div class="col-sm-2 placeholder">
-              <a href="http://akihabaranews.fr/" target="_blank"> 
-              <img src="./style/img/akihabara.png" alt="AkihabaraNews" style="width:100px;height:60px">
-              </a>
-              <p class="mytext-muted">AkihabaraNewss</p>
-            </div>
+    <td>
+      <div class="case">
+        <a href="https://www.lemonde.fr/" target="_blank">
+        <img src="./style/img/le_monde.png" alt="leMonde">
+        </a>
+      </div>
+    </td>
 
-            <div class="col-sm-2 placeholder">
-              <a href="https://www.laquadrature.net/fr" target="_blank"> 
-              <img src="./style/img/quadraturedunet.png" alt="quadraturedunet" style="width:100px;height:60px">
-              </a>
-              <p class="mytext-muted">La quadrature du net</p>
-            </div>
+    <td>
+      <div class="case">
+        <a href="http://www.amnesty.fr/" target="_blank">
+        <img src="./style/img/amnesty.jpg" alt="Amnesty">
+        </a>
+      </div>
+    </td>
 
-          </div> <!-- class="row placeholders" -->
+    <td>
+      <div class="case">
+        <a href="http://www.reporterre.net/" target="_blank">
+        <img src="./style/img/reporterre.jpg" alt="reporterre">
+        </a>
+      </div>
+    </td>
 
-          <hr />
-          <div class="titre">EPSI</div>
+    <td>
+      <div class="case">
+        <a href="http://www.vice.com/fr/" target="_blank">
+        <img src="./style/img/vice.png" alt="Vice">
+        </a>
+      </div>
+    </td>
 
-          <div class="row placeholders">
+		</tr>
 
-            <div class="col-xs-6 col-sm-2 placeholder">
-              <a href="http://ecampusmontpellier.epsi.fr/bienvenue-sur-votre-ecampus" target="_blank"> 
-              <img src="./style/img/ecampus.jpg" alt="Ecampus" style="width:100px;height:60px">
-              </a>
-              <p class="mytext-muted">EPSI Montpellier</p>
-            </div>
 
-            <div class="col-xs-6 col-sm-2 placeholder">
-              <a href="https://extranet.montpellier.epsi.fr/Account/Login" target="_blank"> 
-              <img src="./style/img/ingenium.png" alt="ingénium" style="width:100px;height:60px">
-              </a>
-              <p class="mytext-muted">Ingénium</p>
-            </div>
+    <tr>
 
-          </div> <!-- class="row placeholders" -->
+      <td>
+        <div class="case">
+          <a href="http://korben.info/" target="_blank">
+          <img src="./style/img/korben.png" alt="korben"
+          </a>
+        </div>
+      </td>
 
-        </div> <!--  class="container-fluid" -->
-    </div> <!-- class="row" -->
-</div> <!-- class="col-sm-9 col-md-10 main" -->
+      <td>
+        <div class="case">
+        <a href="http://www.journaldugeek.com/" target="_blank">
+        <img src="./style/img/jdg.jpg" alt="journalDuGeek">
+        </a>
+        </div>
+      </td>
 
-<!-- Muscu, diet, Zap, banque, free, edf, shopping sport wiki séries twin  -->
- 
+      <td>
+        <div class="case">
+          <a href="http://www.frandroid.com/" target="_blank">
+          <img src="./style/img/frandroid.jpg" alt="FrAndroid">
+          </a>
+        </div>
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="http://www.tomsguide.fr/" target="_blank">
+          <img src="./style/img/tomsguide.png" alt="Tom'sGuide">
+          </a>
+        </div>
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="http://www.futura-sciences.com/" target="_blank">
+          <img src="./style/img/futurasciences.jpg" alt="Futura-Sciences">
+          </a>
+        </div>
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="https://www.laquadrature.net/fr" target="_blank">
+          <img src="./style/img/quadraturedunet.png" alt="quadraturedunet">
+          </a>
+        </div>
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="http://www.nextinpact.com/" target="_blank">
+          <img src="./style/img/nextinpact.png" alt="next-inpact">
+          </a>
+        </div>
+      </td>
+      <td>
+        <div class="case">
+          <a href="http://www.cowcotland.com/" target="_blank">
+          <img src="./style/img/cowcotland.png" alt="cowcotland">
+          </a>
+        </div>
+      </td>
+
+    </tr>
+
+
+    <tr>
+
+      <td>
+        <div class="case">
+          <a href="https://linuxfr.org/" target="_blank">
+          <img src="./style/img/linuxfr.png" alt="linuxfr">
+          </a>
+        </div>
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="http://memo-linux.com/" target="_blank">
+          <img src="./style/img/MEMONUX.png" alt="memo-linux">
+          </a>
+        </div>
+      </td>
+
+
+
+      <td>
+        <div class="case">
+          <a href="http://www.undernews.fr/" target="_blank">
+          <img src="./style/img/undernews.png" alt="undernews">
+          </a>
+        </div>
+      </td>
+
+
+      <td>
+        <div class="case">
+          <a href="http://nextwarez.com/" target="_blank">
+          <img src="./style/img/nextwarez*.png" alt="nextarez">
+          </a>
+        </div>
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="http://www.zdnet.fr/" target="_blank">
+          <img src="./style/img/zdnet.jpg" alt="zdnet">
+          </a>
+        </div>
+      </td>
+
+
+
+
+
+    </tr>
+
+    <tr>
+
+      <td>
+        <div class="case">
+          <a href="http://www.datasecuritybreach.fr/" target="_blank">
+          <img src="./style/img/databreach.jpeg" alt="databreach">
+          </a>
+        </div>
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="https://thehackernews.com/" target="_blank">
+          <img src="./style/img/hackernews.jpg" alt="hackernews">
+          </a>
+        </div>
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="http://blog.seboss666.info/" target="_blank">
+          <img src="./style/img/BLOGSEB.png" alt="seboss666">
+          </a>
+        </div>
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="https://infos.mytux.fr/" target="_blank">
+          <img src="./style/img/journalhacker.png" alt="hackerjournal">
+          </a>
+        </div>
+      </td>
+
+    </tr>
+
+	</table>
+</div>
+
 <?php
 include 'footer.php';
 ?>

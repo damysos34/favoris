@@ -4,6 +4,23 @@ body {
   padding-top: 15px;
 }
 
+table, td, th {
+  border: 2px solid black;
+}
+
+table {
+  margin: 10px auto;
+}
+
+.case{
+  text-align: center;
+}
+
+img {
+  width:90px;
+  height:40px
+}
+
 .mytext-muted{
   color:#606060;
 }
@@ -101,4 +118,3 @@ body {
   display: inline-block;
   border-radius: 50%;
 }
-
