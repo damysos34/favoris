@@ -29,24 +29,24 @@ include 'header.php';
           </div>
         </td>
 
-      <td>
-        <div class="case">
-          <a href="http://www.senscritique.com/" target="_blank">
-          <img src="./style/img/senscritique.jpg" alt="senscritique">
-          </a>
-        </div>
-      </td>
-
-      <td>
+        <td>
           <div class="case">
-          <a href="http://www.meteofrance.com/accueil" target="_blank">
-          <img src="./style/img/meteofrance.jpg" alt="meteo">
-          </a>
-        </div>
-      </td>
+            <a href="https://www.labanquepostale.fr/" target="_blank">
+            <img src="./style/img/lbp.png" alt="labanquepostale">
+            </a>
+          </div>
+        </td>
 
-      <td>
-      </td>
+        <td>
+          <div class="case">
+            <a href="http://www.lequipe.fr/" target="_blank">
+            <img src="./style/img/lequipe.jpg" alt="lequipe">
+            </a>
+          </div>
+        </td>
+
+
+      <td></td>
 
       <td>
         <div class="case">
@@ -101,39 +101,21 @@ include 'header.php';
       </td>
 
       <td>
-          <div class="case">
-          <a href="http://izismile.com/" target="_blank">
-          <img src="./style/img/izismile.jpg" alt="izismile">
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="http://slider.kz/" target="_blank">
+          <img src="./style/img/sliderz.jpg" alt="sliderz">
           </a>
         </div>
       </td>
 
-        <td>
-          <div class="case">
-            <a href="http://www.realstreamunited.com/football-live-streaming-video.html" target="_blank">
-            <img src="./style/img/streamhunter.png" alt="streamhunter">
-            </a>
-          </div>
-        </td>
+      <td>
+      </td>
 
-        <td>
-            <div class="case">
-            <a href="http://curvefever.com/play2.php" target="_blank">
-            <img src="./style/img/curve.png" alt="achtung">
-            </a>
-          </div>
-        </td>
-
-
-        <td>
-            <div class="case">
-            <a href="http://slider.kz/" target="_blank">
-            <img src="./style/img/sliderz.jpg" alt="sliderz">
-            </a>
-          </div>
-        </td>
-
-
+      <td>
+      </td>
 
       </tr>
 
@@ -142,7 +124,7 @@ include 'header.php';
     <td>
       <div class="case">
         <a href="https://www.lemonde.fr/" target="_blank">
-        <img src="./style/img/le_monde.png" alt="leMonde">
+        <img src="./style/img/lemonde.jpg" alt="leMonde">
         </a>
       </div>
     </td>
@@ -166,13 +148,97 @@ include 'header.php';
     <td>
       <div class="case">
         <a href="http://www.vice.com/fr/" target="_blank">
-        <img src="./style/img/vice.png" alt="Vice">
+        <img src="./style/img/vice.jpg" alt="Vice">
+        </a>
+      </div>
+    </td>
+
+    <td>
+      <div class="case">
+        <a href="https://news.google.com/" target="_blank">
+        <img src="./style/img/googlenews.jpg" alt="googlenews">
+        </a>
+      </div>
+    </td>
+
+    <td>
+    </td>
+
+    <td>
+      <div class="case">
+        <a href="http://www.futura-sciences.com/" target="_blank">
+        <img src="./style/img/futurasciences.jpg" alt="Futura-Sciences">
+        </a>
+      </div>
+    </td>
+
+    <td>
+      <div class="case">
+        <a href="http://www.nextinpact.com/" target="_blank">
+        <img src="./style/img/nextinpact.png" alt="next-inpact">
         </a>
       </div>
     </td>
 
 		</tr>
 
+    <tr>
+
+    <td>
+      <div class="case">
+        <a href="http://www.senscritique.com/" target="_blank">
+        <img src="./style/img/senscritique.png" alt="senscritique">
+        </a>
+      </div>
+    </td>
+
+      <td>
+        <div class="case">
+          <a href="http://www.realstreamunited.com/football-live-streaming-video.html" target="_blank">
+          <img src="./style/img/streamhunter.png" alt="streamhunter">
+          </a>
+        </div>
+      </td>
+
+      <td>
+          <div class="case">
+          <a href="http://www.meteofrance.com/accueil" target="_blank">
+          <img src="./style/img/meteofrance.jpg" alt="meteo">
+          </a>
+        </div>
+      </td>
+
+      <td>
+      </td>
+
+      <td>
+      </td>
+
+      <td>
+          <div class="case">
+          <a href="http://izismile.com/" target="_blank">
+          <img src="./style/img/izismile.jpg" alt="izismile">
+          </a>
+        </div>
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="http://www.spi0n.com/zapping-web/" target="_blank">
+          <img src="./style/img/spion.jpg" alt="spion">
+          </a>
+        </div>
+      </td>
+
+      <td>
+        <div class="case">
+          <a href="http://www.zap-tele.com/" target="_blank">
+          <img src="./style/img/zaptele.jpg" alt="zaptele">
+          </a>
+        </div>
+      </td>
+
+    </tr>
 
     <tr>
 
@@ -210,14 +276,6 @@ include 'header.php';
 
       <td>
         <div class="case">
-          <a href="http://www.futura-sciences.com/" target="_blank">
-          <img src="./style/img/futurasciences.jpg" alt="Futura-Sciences">
-          </a>
-        </div>
-      </td>
-
-      <td>
-        <div class="case">
           <a href="https://www.laquadrature.net/fr" target="_blank">
           <img src="./style/img/quadraturedunet.png" alt="quadraturedunet">
           </a>
@@ -226,21 +284,24 @@ include 'header.php';
 
       <td>
         <div class="case">
-          <a href="http://www.nextinpact.com/" target="_blank">
-          <img src="./style/img/nextinpact.png" alt="next-inpact">
-          </a>
-        </div>
-      </td>
-      <td>
-        <div class="case">
           <a href="http://www.cowcotland.com/" target="_blank">
           <img src="./style/img/cowcotland.png" alt="cowcotland">
           </a>
         </div>
       </td>
 
-    </tr>
+      <td>
+      </td>
 
+      <td>
+          <div class="case">
+          <a href="http://curvefever.com/play2.php" target="_blank">
+          <img src="./style/img/curve.jpg" alt="achtung">
+          </a>
+        </div>
+      </td>
+
+    </tr>
 
     <tr>
 
@@ -260,21 +321,10 @@ include 'header.php';
         </div>
       </td>
 
-
-
       <td>
         <div class="case">
           <a href="http://www.undernews.fr/" target="_blank">
           <img src="./style/img/undernews.png" alt="undernews">
-          </a>
-        </div>
-      </td>
-
-
-      <td>
-        <div class="case">
-          <a href="http://nextwarez.com/" target="_blank">
-          <img src="./style/img/nextwarez*.png" alt="nextarez">
           </a>
         </div>
       </td>
@@ -286,14 +336,6 @@ include 'header.php';
           </a>
         </div>
       </td>
-
-
-
-
-
-    </tr>
-
-    <tr>
 
       <td>
         <div class="case">
@@ -328,6 +370,10 @@ include 'header.php';
       </td>
 
     </tr>
+
+
+
+
 
 	</table>
 </div>
